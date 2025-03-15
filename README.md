@@ -1,7 +1,8 @@
 Hi, I'm Shreya.
 
 🧠 Applied electronics and Instrumentation engineering student <br/>
-👾 Intrested in content writing and design works <br/>
+👾 Intrested in content writing, design works and web development <br/>
+
 
 
 # 💻 Tech Stack:
